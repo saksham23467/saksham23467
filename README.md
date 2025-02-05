@@ -25,7 +25,7 @@ I'm a B.Tech student in Computer Science and Applied Mathematics at IIIT Delhi (
 - [Angry Birds Game Clone](https://github.com/saksham23467/Angry-Birds) - OOP-based GUI game using LibGDX (Java)
 - [Linux Shell](https://github.com/saksham23467/SimpleShell) - Custom Linux Shell with IPC mechanisms (C)
 - [Spotify Playlist Creator](https://github.com/saksham23467/Billboard-to-Spotify) - Playlist generator from Billboard charts (Python)
-- [Stock Price & News Alert System](https://github.com/saksham23467/Stock-Alerts) - Real-time stock price and news alerts (Python)
+- [Stock Price & News Alert System](https://github.com/saksham23467/Stock-News) - Real-time stock price and news alerts (Python)
 
 ## 🏆 Achievements
 - 🥉 **Bronze Medal** - Delhi State Gymnastics Championship (2016)
