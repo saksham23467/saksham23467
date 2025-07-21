@@ -22,7 +22,7 @@ I'm a B.Tech student in Computer Science and Applied Mathematics at IIIT Delhi (
 
 ## 🧩 Projects
 - [DocBot – AI Documentation Chatbot](https://github.com/saksham23467/DOC_BOT) -AI chatbot to answer questions from any documentation
-- [RISC-V Assembler Combined Simulator](https://github.com/saksham23467/CO-Assignment) - Assembly code parser & instruction cycle simulator (Python)
+- [RISC-V Assembler Combined Simulator](https://github.com/saksham23467/Assember-Simulator) - Assembly code parser & instruction cycle simulator (Python)
 - [Angry Birds Game Clone](https://github.com/saksham23467/Angry-Birds) - OOP-based GUI game using LibGDX (Java)
 - [Linux Shell](https://github.com/saksham23467/SimpleShell) - Custom Linux Shell with IPC mechanisms (C)
 - [Spotify Playlist Creator](https://github.com/saksham23467/Billboard-to-Spotify) - Playlist generator from Billboard charts (Python)
