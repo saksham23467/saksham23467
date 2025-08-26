@@ -33,10 +33,13 @@ I'm a B.Tech student in Computer Science and Applied Mathematics at IIIT Delhi (
 - 🥉 **Bronze Medal** - Delhi State Gymnastics Championship (2016)
 - 🏅 **Best Gymnast** - Zonal Gymnastics Championship (2017)
 - 🎯 **Pupil** on Codeforces
-
+  
 ## 📊 GitHub Stats
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham23467&show_icons=true&theme=dark)
+
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham23467&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham23467&layout=compact&theme=dark)
+
 
 --
 
