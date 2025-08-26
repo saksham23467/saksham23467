@@ -32,7 +32,7 @@ I'm a B.Tech student in Computer Science and Applied Mathematics at IIIT Delhi (
 ## 🏆 Achievements
 - 🥉 **Bronze Medal** - Delhi State Gymnastics Championship (2016)
 - 🏅 **Best Gymnast** - Zonal Gymnastics Championship (2017)
-- 🎯 **Pupil** on Codeforces
+- 🎯 **Specialist** on Codeforces
   
 ## 📊 GitHub Stats
 
